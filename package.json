@@ -1,0 +1,23 @@
+{
+  "name": "alexandrite-light-changer",
+  "version": "1.0.0",
+  "description": "Enables the creation of language learning apps and platforms, supporting education and communication in multilingual settings.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/alexandrite-light-changer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "agate-wind-singer": "1.0.0",
+    "tanzanite-fire-dancer": "1.0.0",
+    "jquery": "1.0.0",
+    "mongoose": "1.0.0"
+  }
+}
